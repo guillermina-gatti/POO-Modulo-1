@@ -1,4 +1,4 @@
-# Trayecto Programador - POO con Java
+# POO con Java
 
 Este repositorio contiene los ejercicios realizados durante la **cursada de Programación Orientada a Objetos en Java**, correspondiente a la primera unidad.
 
